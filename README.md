@@ -2,8 +2,8 @@
 
 _Education:_
 
-- Virginia Tech B.S. ECE '22
-- Virginia Tech M.S. ML '23
+- Virginia Tech B.S. ECE '22.
+- Virginia Tech M.S. ML '23.
 
 _Previously_: ML [Shield AI](https://shield.ai/); ML [Geo Lab](https://www.wm.edu/as/data-science/researchlabs/geolab/index.php); SWE [HEVT@VT](https://eng.vt.edu/student-teams/hevt.html); SWE [Wireless@VT](https://wireless.vt.edu/), TA [ECE 2804@VT](https://ece.vt.edu/undergrad/courses/2804.html).<br>
 _Currently_: ML [CCI / A3 Lab](https://ai.ece.vt.edu/); SWE [TREC Lab](https://www.trecvt.org/).
@@ -16,10 +16,11 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact). I'm always 
 ---
 
 **Language and Tools:**<br>
+
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebforpc.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fc-plus-plus-program-logo-image.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4521293.png&f=1&nofb=1"></code>
-<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1"></code>
 
 
 **Open-source MLE projects:**
