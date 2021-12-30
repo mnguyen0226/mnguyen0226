@@ -5,7 +5,7 @@ _Education:_
 - Virginia Tech B.S. ECE '22.
 - Virginia Tech M.S. ML '23.
 
-_Previously_: ML [Shield AI](https://shield.ai/); ML [Geo Lab](https://www.wm.edu/as/data-science/researchlabs/geolab/index.php); SWE [HEVT@VT](https://eng.vt.edu/student-teams/hevt.html); SWE [Wireless@VT](https://wireless.vt.edu/), TA [ECE 2804@VT](https://ece.vt.edu/undergrad/courses/2804.html).<br>
+_Previously_: ML [Shield AI](https://shield.ai/); ML [Geo Lab](https://www.wm.edu/as/data-science/researchlabs/geolab/index.php); SWE [HEVT@VT](https://eng.vt.edu/student-teams/hevt.html); SWE [Wireless@VT](https://wireless.vt.edu/); TA [ECE 2804@VT](https://ece.vt.edu/undergrad/courses/2804.html).<br>
 _Currently_: ML [CCI / A3 Lab](https://ai.ece.vt.edu/); SWE [TREC Lab](https://www.trecvt.org/).
 
 - :mortar_board: Research Interest: Deep Learning, Graph Neural Network, AI Assurance - Optimization, ML-Deployment, Scalability, Architecture Design.
