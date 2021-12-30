@@ -34,7 +34,7 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact). I'm always 
 
 **Open-source SWE projects:**
 
-- (On-going) [Data Structures & Algorithms in C & C++](https://github.com/mnguyen0226?tab=repositories).
+- (On-going) [Data Structures & Algorithms in C & C++](https://github.com/mnguyen0226/coding-interview-swe-ml).
 - (On-going) [Haptic Force and Position Feedback Robotic Arm in Virtual Reality](https://mnguyen0226.github.io/projects).
 - [Essential Data Structures in Linux Kernel Programming](https://github.com/mnguyen0226/essential_data_structures_for_linux_kernel).
 - [GIS Virginia Database Parser](https://github.com/mnguyen0226/gis-virginia-parser).
