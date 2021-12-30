@@ -1,9 +1,9 @@
 ### Hi there, I'm [Minh](https://mnguyen0226.github.io/) 👋
 
-Virginia Tech B.S. ECE '22
-Virginia Tech M.S. ML '23
+Virginia Tech B.S. ECE '22<br>
+Virginia Tech M.S. ML '23<br>
 
-_Previously_: ML [Shield AI](https://shield.ai/); ML [GeoLab](); SWE [HEVT](); SWE [Wireless@VT](), TA [ECE 2804@VT]()
+_Previously_: ML [Shield AI](https://shield.ai/); ML [GeoLab](); SWE [HEVT](); SWE [Wireless@VT](), TA [ECE 2804@VT]()<br>
 _Currently_: ML [CCI](); SWE [TRECLab]()
 
 - Research Interest: Deep Learning, Graph Neural Network, AI Assurance - Optimization, ML-Deployment, Scalability, Architecture Design.
