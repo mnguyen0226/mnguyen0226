@@ -25,7 +25,7 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact). I'm always 
 
 **Open-source MLE projects:**
 
-- (On-going) Cyber-physical Attacks Detections, Localization, and Attribution Evaluation with Temporal Graph Neural Networks for Smart Farm.
+- (On-going) Cyber-physical Attacks Detections & Localization with Temporal Graph Neural Networks for Smart Farm.
 - [Performance Comparison & Analysis Between Q-Learning, A2C, PPO in BipedalWalker-V2](https://github.com/mnguyen0226/rl_value_based_vs_value_policy_based).
 - [Effectiveness of Second-Order Optimization for Non-Convex Machine Learning](https://github.com/mnguyen0226/soo_non_convex_ml).
 - [Gated Transformers Implementation](https://github.com/mnguyen0226/gated_transformers_nlp).
