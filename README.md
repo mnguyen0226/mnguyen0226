@@ -1,4 +1,4 @@
-### Hi there, I'm [Minh T. Nguyen](https://mnguyen0226.github.io/) 👋
+### Hi there, I'm [Minh](https://mnguyen0226.github.io/) 👋
 
 _Education:_
 
