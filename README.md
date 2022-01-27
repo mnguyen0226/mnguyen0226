@@ -39,3 +39,9 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact). I'm always 
 - [Essential Data Structures in Linux Kernel Programming](https://github.com/mnguyen0226/essential_data_structures_for_linux_kernel).
 - [GIS Virginia Database Parser](https://github.com/mnguyen0226/gis-virginia-parser).
 - [Smart Home Simulation Project](https://github.com/mnguyen0226/smart-home-project).
+
+
+**Courses Notes:**
+- (On-going) [STATS 4984 - Deep Learning](https://github.com/mnguyen0226/stats_4984_deep_learning).
+- (On-going) [ECE 5984 - Trustworthy ML](https://github.com/mnguyen0226/trustworthy_ml_techniques).
+- [Coursera Deep Learning - by Andrew Ng](https://github.com/mnguyen0226/deep-learning-coursera).
