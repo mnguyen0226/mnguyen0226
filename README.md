@@ -21,6 +21,7 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact). I'm always 
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4521293.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"></code>
 
 
 **Open-source MLE projects:**
