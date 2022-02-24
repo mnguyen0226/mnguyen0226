@@ -46,8 +46,7 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact). I'm always 
 - ["Performance Comparison and Analysis Between Q-Learning, A2C, and PPO with Generalized Advantage Estimation in Bipedal Walker Environment"](https://github.com/mnguyen0226/rl_value_based_vs_value_policy_based/blob/main/docs/Reinforcement%20Learning%20Final%20Paper.pdf) - Nguyen, M. (2021)
 - ["Technology Policy Recommendations Using Artificial Intelligence"](https://journals.flvc.org/FLAIRS/article/view/128499) - Anuga, A., Nguyen, M., Perini, D., Svetovidov, A., Tolman, A., Wani, Q., & Batarseh, F. A. - The International FLAIRS Conference Proceedings (2021)
 - ["Predicting road quality using high resolution satellite imagery: A transfer learning approach"](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0253370) - Brewer, E., Lin, J., Kemper, P., Hennin, J., Runfola, D. - PLOS ONE (2021)
-- ["Advanced Smart Home Simulation"](https://github.com/mnguyen0226/smart-home-project/blob/main/reports/Advanced%20Smart%20Home%20Final%20Technical%20Report.pdf)
- - Nguyen, M., Wu, C. (2020)]
+- ["Advanced Smart Home Simulation"](https://github.com/mnguyen0226/smart-home-project/blob/main/reports/Advanced%20Smart%20Home%20Final%20Technical%20Report.pdf) - Nguyen, M., Wu, C. (2020)]
 
 **Courses Notes:**
 - (On-going) [STATS 4984 - Deep Learning](https://github.com/mnguyen0226/stats_4984_deep_learning).
