@@ -24,6 +24,14 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact). I'm always 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"></code>
 
 
+**Research Papers**
+- ["Effectiveness of Second-Order Optimization for Non-convex Machine Learning" - Wani, Q., Nguyen, M., Landry, T. (2021)](https://github.com/mnguyen0226/soo_non_convex_ml/blob/main/docs/Computer_Vision_Final_Project.pdf)
+- ["Performance Comparison and Analysis Between Q-Learning, A2C, and PPO with Generalized Advantage Estimation in Bipedal Walker Environment" - Nguyen, M. (2021)](https://github.com/mnguyen0226/rl_value_based_vs_value_policy_based/blob/main/docs/Reinforcement%20Learning%20Final%20Paper.pdf)
+- ["Technology Policy Recommendations Using Artificial Intelligence" - Anuga, A., Nguyen, M., Perini, D., Svetovidov, A., Tolman, A., Wani, Q., & Batarseh, F. A. - The International FLAIRS Conference Proceedings (2021)](https://journals.flvc.org/FLAIRS/article/view/128499)
+- [Predicting road quality using high resolution satellite imagery: A transfer learning approach - Brewer, E., Lin, J., Kemper, P., Hennin, J., Runfola, D. - PLOS ONE (2021)](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0253370)
+- [Advanced Smart Home Simulation - Nguyen, M., Wu, C. (2020)](https://github.com/mnguyen0226/smart-home-project/blob/main/reports/Advanced%20Smart%20Home%20Final%20Technical%20Report.pdf)
+
+
 **Open-source MLE projects:**
 
 - (On-going) Cyber-physical Attacks Detections & Localization with Temporal Graph Neural Networks for Smart Farm.
