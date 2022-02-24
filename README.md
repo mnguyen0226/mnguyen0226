@@ -41,7 +41,7 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact). I'm always 
 - [GIS Virginia Database Parser](https://github.com/mnguyen0226/gis-virginia-parser).
 - [Smart Home Simulation Project](https://github.com/mnguyen0226/smart-home-project).
 
-**Research Papers**
+**Research Papers:**
 - ["Effectiveness of Second-Order Optimization for Non-convex Machine Learning"](https://github.com/mnguyen0226/soo_non_convex_ml/blob/main/docs/Computer_Vision_Final_Project.pdf) - Wani, Q., Nguyen, M., Landry, T. (2021)
 - ["Performance Comparison and Analysis Between Q-Learning, A2C, and PPO with Generalized Advantage Estimation in Bipedal Walker Environment"](https://github.com/mnguyen0226/rl_value_based_vs_value_policy_based/blob/main/docs/Reinforcement%20Learning%20Final%20Paper.pdf) - Nguyen, M. (2021)
 - ["Technology Policy Recommendations Using Artificial Intelligence"](https://journals.flvc.org/FLAIRS/article/view/128499) - Anuga, A., Nguyen, M., Perini, D., Svetovidov, A., Tolman, A., Wani, Q., & Batarseh, F. A. - The International FLAIRS Conference Proceedings (2021)
