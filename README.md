@@ -11,7 +11,7 @@ _Currently_: ML [CCI / A3 Lab](https://ai.ece.vt.edu/); SWE [TREC Lab](https://w
 - :mortar_board: Research Interest: Deep Learning, Graph Neural Network, AI Assurance - Optimization, MLOps, Scalability, Architecture Design.
 - :telescope: I like to apply my software & machine learning skills to solve challenging problems.
 
-I'm best reached via [email](https://mnguyen0226.github.io/contact). I'm always open to interesting conversations and collaboration.
+I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/). I'm always open to interesting conversations and collaboration.
 
 ---
 
