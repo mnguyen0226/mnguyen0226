@@ -27,4 +27,10 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="20" src="https://texashealthagents.com/wp-content/uploads/2022/03/google-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png"></code>
-
+<code><img height="20" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"></code>
+<code><img height="20" src="https://caiodonalisio.com/static/blog/posts/cadernos/matplotlib/cover.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/800px-Plotly-logo.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png"></code>
+<code><img height="20" src="https://sixfeetup.com/blog/an-introduction-to-beautifulsoup/@@images/27e8bf2a-5469-407e-b84d-5cf53b1b0bb6.png"></code>
