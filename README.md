@@ -18,7 +18,6 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="20" src="https://static.cdnlogo.com/logos/c/27/c.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></code>
 
 **Machine Learning Frameworks:**<br>
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
