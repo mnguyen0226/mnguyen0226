@@ -16,8 +16,10 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebforpc.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fc-plus-plus-program-logo-image.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4521293.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
-<code><img height="20" src="https://static.cdnlogo.com/logos/c/27/c.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+<code><img height="20" src="https://static.cdnlogo.com/logos/c/27/c.svg"></code>
 
 **Machine Learning Frameworks:**<br>
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
@@ -34,3 +36,8 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn
 <code><img height="20" src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png"></code>
 <code><img height="20" src="https://sixfeetup.com/blog/an-introduction-to-beautifulsoup/@@images/27e8bf2a-5469-407e-b84d-5cf53b1b0bb6.png"></code>
+
+**Software Development Frameworks:**<br>
+<code><img height="20" src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"></code>
