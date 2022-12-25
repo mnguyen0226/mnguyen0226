@@ -6,7 +6,7 @@
 - Virginia Tech B.S. ECE '22.
 
 **Experience:** 
-- ML Intern at [Deloitte & Touche](https://www2.deloitte.com/us/en/pages/consulting/topics/cortex-ai-platform.html)
+- ML Intern at [Deloitte & Touche](https://www2.deloitte.com/us/en/pages/consulting/topics/cortex-ai-platform.html).
 - ML Intern at [Shield AI](https://shield.ai/).<br>
 
 _I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/). I'm always open to interesting conversations and collaboration._
