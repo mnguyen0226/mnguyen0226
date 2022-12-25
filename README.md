@@ -1,23 +1,27 @@
 ### Hi there, I'm [Minh](https://mnguyen0226.github.io/) 👋
 
-_Education:_
+**Education:**
 
 - Virginia Tech M.S. ML '24.
 - Virginia Tech B.S. ECE '22.
 
-_Experience_: ML [Deloitte & Touche](https://www2.deloitte.com/us/en/pages/consulting/topics/cortex-ai-platform.html); ML [Shield AI](https://shield.ai/).<br>
+**Experience:** 
+- ML Intern at [Deloitte & Touche](https://www2.deloitte.com/us/en/pages/consulting/topics/cortex-ai-platform.html)
+- ML Intern at [Shield AI](https://shield.ai/).<br>
 
-I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/). I'm always open to interesting conversations and collaboration.
+_I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/). I'm always open to interesting conversations and collaboration._
 
 ---
+### My toolbox includes :wrench:
 
 **Languages:**<br>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebforpc.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fc-plus-plus-program-logo-image.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4521293.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <code><img height="20" src="https://static.cdnlogo.com/logos/c/27/c.svg"></code>
 
@@ -27,7 +31,7 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"></code>
 
-**Data Science Tools:**<br>
+**Data Science Frameworks:**<br>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"></code>
 <code><img height="20" src="https://caiodonalisio.com/static/blog/posts/cadernos/matplotlib/cover.png"></code>
@@ -40,4 +44,4 @@ I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn
 **Software Development Frameworks:**<br>
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
