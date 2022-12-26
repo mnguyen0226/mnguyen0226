@@ -29,20 +29,21 @@ _I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedI
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"></code>
+<code><img height="20" src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png"></code>
 
 **Data Science Frameworks:**<br>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"></code>
-<code><img height="20" src="https://caiodonalisio.com/static/blog/posts/cadernos/matplotlib/cover.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/800px-Plotly-logo.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU"></code>
+<code><img height="20" src="https://avatars0.githubusercontent.com/u/5997976?s=400&amp;v=4"></code>
+<code><img height="20" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png"></code>
-<code><img height="20" src="https://sixfeetup.com/blog/an-introduction-to-beautifulsoup/@@images/27e8bf2a-5469-407e-b84d-5cf53b1b0bb6.png"></code>
+<code><img height="20" src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg"></code>
 
 **Software Development Frameworks:**<br>
-<code><img height="20" src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"></code>
+<code><img height="20" src="https://www.seekpng.com/png/detail/70-701539_flask-flask-python-png.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
