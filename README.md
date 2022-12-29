@@ -19,11 +19,12 @@ _I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedI
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebforpc.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fc-plus-plus-program-logo-image.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4521293.png&f=1&nofb=1"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 <code><img height="20" src="https://static.cdnlogo.com/logos/c/27/c.svg"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> -->
 
 **Machine Learning Frameworks:**<br>
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
