@@ -5,7 +5,7 @@
 - Virginia Tech M.S. ML '24.
 - Virginia Tech B.S. ECE '22.
 
-**Experience:**  
+**Experience:**
 - ML Intern at [Deloitte & Touche](https://www2.deloitte.com/us/en/pages/consulting/topics/cortex-ai-platform.html).
 - ML Intern at [Shield AI](https://shield.ai/).<br>
 
