@@ -47,5 +47,6 @@ _I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedI
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"></code>
 <code><img height="20" src="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
