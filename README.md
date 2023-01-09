@@ -51,8 +51,3 @@ _I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedI
 <code><img height="20" src="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
 
-### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnguyen0226&layout=compact&langs_count=8&hide=jupyter%20notebook,purebasic)](https://github.com/anuraghazra/github-readme-stats)
-
----
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mnguyen0226)](https://github.com/anuraghazra/github-readme-stats)
