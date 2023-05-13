@@ -1,6 +1,6 @@
 ### Hi there, I'm [Minh](https://mnguyen0226.github.io/) 👋
 
-### 🎓EDUCATION
+### 🎓 EDUCATION
 
 - Virginia Tech M.Sc. Computer Engineering '24.
 - Virginia Tech B.Sc. Computer Engineering '22.
