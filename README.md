@@ -9,7 +9,7 @@ _I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedI
 
 ---
 ### 🔧 SKILLS
-- **Languages**: Python, SQL, Java, Javascript, HTML, CSS.
+- **Languages**: Python, SQL, Java, C/C++, HTML, CSS.
 - **Web Development Tools**: Flask, Vue.js, MySQL, SQLite, Git, Docker, Figma.
 - **Data Science Tools**: Tensorflow, PyTorch, Scikit-learn, NumPy, Matplotlib, Pandas, Seaborn, Plotly, BeautifulSoup, OpenCV.
 
