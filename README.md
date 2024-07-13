@@ -1,5 +1,5 @@
 ### Hi there, I'm [Minh](https://mnguyen0226.github.io/) 👋
-
-_I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/). I'm always open to interesting conversations and collaboration._
-
-
+- 👀 A software engineer at BlackRock
+- 🌱 An enthusiast about data-driven and AI-driven modeling for critical systems
+- 💞️ Designed several models and software systems in big-tech, start-up, and research labs
+- 📫 I'm best reached via [email](https://mnguyen0226.github.io/contact) or [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/)
