@@ -9,7 +9,6 @@
 - 👀 A software engineer at BlackRock.
 - 🌱 An enthusiast about data-driven and AI-driven modeling for critical systems.
 - 💞️ Built several models and software systems in big-tech, start-up, and research labs.
-- 🖊️ [My blog](https://mnguyen0226.github.io/).
 - 👯 I’m looking to collaborate on ML, Kubernetes, Kafka... any projects.
 - 📫 I'm best reached via [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/).
 
