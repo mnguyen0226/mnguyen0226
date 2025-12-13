@@ -1,24 +1,8 @@
-<h1 align="center"> Hi, I'm Minh <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> </h1>
+## 👋 Hi, I’m Minh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnguyen0226&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+I’m an engineer focused on building **reliable, scalable systems** across machine learning, data, and automation.  
+My work sits at the intersection of **ML and systems engineering**, with a focus on **production-grade design and operation**.
 
-## 📌 About Me
-- 👀 A software engineer at BlackRock.
-- 🌱 An enthusiast about data-driven and AI-driven modeling for critical systems.
-- 💞️ Built several models and software systems in big-tech, start-up, and research labs.
-- 👯 I’m looking to collaborate on ML, Kubernetes, Kafka... any projects.
-- 📫 I'm best reached via [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/).
+Most of my experience spans **industry, startups, and applied research**, emphasizing the delivery of **maintainable, production-ready solutions**.
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnguyen0226&theme=nord_bright"/>
-</p>
-
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mnguyen0226&show_icons=true&theme=nord" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnguyen0226&theme=nord" />
-</p>
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/)
