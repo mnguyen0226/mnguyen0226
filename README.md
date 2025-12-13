@@ -5,4 +5,4 @@ My work sits at the intersection of **ML and systems engineering**, with a focus
 
 Most of my experience spans **industry, startups, and applied research**, emphasizing the delivery of **maintainable, production-ready solutions**.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/minhbtnguyen/) or via email: [minhbtnguyen.work@gmail.com](mailto:minhbtnguyen.work@gmail.com)
